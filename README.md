@@ -15,7 +15,7 @@ This project investigates whether machine learning models trained on survey data
 
 ## Data
 
-The analysis uses the **American Community Survey (ACS) 2024** dataset publicly available through the Folktables Python package (Ding et al., 2021).. Due to file size, the data is not included in this repository. 
+The analysis uses the **American Community Survey (ACS) 2024** dataset publicly available through the Folktables Python package (Ding et al., 2021). Due to file size, the data is not included in this repository. 
 ## Requirements
 torch
 pandas
